@@ -14,10 +14,10 @@ Pyber a ride share company our new boss has asked us to show graphs about the pe
 
 ![](/analysis/Fig1.png)
 ![](/analysis/Fig2.png)
-![](/analysis/Fig3.png)
+![](/analysis/fig3.png)
 ![](/analysis/Fig4.png)
 ![](/analysis/Fig5.png)
-![](/analysis/Fig6.png)
+![](/analysis/fig6.png)
 
 # Summary 
 Now what can we get from this data? We can see that Urban is popular both driver and passenger wise. Having multiple driver and rider. The total fares is also the heist because the density, it being a city and all. This means that the people are plentiful, but the rides are short. Rural which is quite the opposite has higher pare per ride. This is probably because of the distances between locations. Lastly from the graph we can see somewhere between Feb and March has the heist fares in every area type. I have no found exactly why thinking it may be because of valentine’s day or presidents day, more data needed. 
