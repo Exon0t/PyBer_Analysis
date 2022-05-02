@@ -13,7 +13,6 @@ Pyber a ride share company our new boss has asked us to show graphs about the pe
 	*Urban has a lot of drivers and riders, but the average fare is lower.
 
 ![](/analysis/Fig1.png)
-![](/analysis/Fig2.png)
 ![](/analysis/fig3.png)
 ![](/analysis/Fig4.png)
 ![](/analysis/Fig5.png)
